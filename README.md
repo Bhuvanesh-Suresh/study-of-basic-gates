@@ -64,12 +64,12 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
- Developed by: BHUVANESH.S.R
- RegisterNumber: 212223240017
- ```
+```
 
- //All logic gates TT verfn.
+Program for logic gates and verify its truth table in quartus using Verilog programming
+Developed by: BHUVANESH.S.R
+RegisterNumber: 212223240017
+//All logic gates TT verfn.
 module ex1(a,b,x,y,z);
 input a,b;
 output x,y,z;
